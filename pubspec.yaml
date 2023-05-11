@@ -35,6 +35,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   firebase_core: ^1.10.5
   firebase_auth: ^3.3.3
+  news_api_flutter_package: ^1.1.0
 
 dev_dependencies:
   flutter_test:
